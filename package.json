@@ -1,0 +1,19 @@
+{
+  "name": "commandline-app",
+  "version": "1.0.0",
+  "description": "a simple commandline application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WillyWunderdog/Command-line-application.git"
+  },
+  "author": "Gbenga Ode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WillyWunderdog/Command-line-application/issues"
+  },
+  "homepage": "https://github.com/WillyWunderdog/Command-line-application#readme"
+}
