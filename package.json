@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/WillyWunderdog/Command-line-application#readme",
   "dependencies": {
+    "chalk": "^1.1.3",
     "xmlhttprequest": "^1.8.0"
   }
 }
