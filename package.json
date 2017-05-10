@@ -10,7 +10,7 @@
     "api",
     "random",
     "quote"
-    ],
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/WillyWunderdog/Command-line-application.git"
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/WillyWunderdog/Command-line-application/issues"
   },
-  "homepage": "https://github.com/WillyWunderdog/Command-line-application#readme"
+  "homepage": "https://github.com/WillyWunderdog/Command-line-application#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
