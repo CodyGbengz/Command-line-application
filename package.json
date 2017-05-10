@@ -1,11 +1,16 @@
 {
-  "name": "commandline-app",
+  "name": "commandline-app that consume random-quotes-api",
   "version": "1.0.0",
-  "description": "a simple commandline application",
+  "description": "a simple commandline application that consumes api",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "api",
+    "random",
+    "quote"
+    ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/WillyWunderdog/Command-line-application.git"
