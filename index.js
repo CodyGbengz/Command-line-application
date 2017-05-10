@@ -9,7 +9,7 @@ xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded", false)
 xhr.onload = function (event) {
   	if (xhr.readyState === 4 && xhr.status === 200){
   		let response = JSON.parse(xhr.responseText);
-      	console.log("Quote: " + response.quote);
+      	console.log("Quote Text: " + response.quote);
       	console.log("Quote Author: " + response.author);
   	} else {
       	console.error(xhr.statusText);
